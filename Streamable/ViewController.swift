@@ -14,8 +14,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.setupAudio()
-        self.rtmp_publish_stream()
+        //self.setupAudio()
+        //self.rtmp_publish_stream()
         // Do any additional setup after loading the view.
     }
     
